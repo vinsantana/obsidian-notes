@@ -1,0 +1,1 @@
+A Business Impact Analysis (BIA) is an analysis of critical business processes that contains the most important information for estimating the impact that a contingency may have on these processes.

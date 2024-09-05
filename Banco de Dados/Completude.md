@@ -1,0 +1,1 @@
+Todos os dados públicos devem ser tornados disponíveis. [[Dados Públicos]] são dados que não estão sujeitos a limitações válidas de [[privacidade]], [[segurança]] ou [[controle de acesso]]. 

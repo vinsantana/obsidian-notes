@@ -1,0 +1,1 @@
+Apenas um certo grupo de pessoas tem acesso a ela, sendo fechada para outros

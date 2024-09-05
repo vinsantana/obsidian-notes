@@ -1,0 +1,1 @@
+Os dados são disponibilizados o mais rápido possível, para preservar seu valor. 

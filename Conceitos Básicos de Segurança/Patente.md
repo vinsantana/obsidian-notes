@@ -1,0 +1,1 @@
+Decide como a invenção pode ou não ser usada.

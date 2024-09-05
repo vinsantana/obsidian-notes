@@ -1,0 +1,1 @@
+Nível intermediário de proteção. São classificadas como importantes. Apenas um grupo especifico tem acesso a elas.

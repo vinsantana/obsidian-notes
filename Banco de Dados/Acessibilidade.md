@@ -1,0 +1,1 @@
+Os dados são disponíveis par ao maior alcance possível de usuários e para os propósitos mais variados possíveis. 

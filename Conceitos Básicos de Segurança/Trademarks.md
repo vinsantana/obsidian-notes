@@ -1,0 +1,1 @@
+Sinais que diferenciam os bens e serviços de uma empresa para outra

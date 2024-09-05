@@ -1,0 +1,1 @@
+Cada transação deve ser isolada das outras transações em execução concorrentemente. Isso significa que as alterações feitas por uma transação não devem ser visíveis para outras transações até que a transação seja concluída com sucesso. Isso evita que transações em paralelo interfiram umas nas outras e garante a consistência dos dados. 

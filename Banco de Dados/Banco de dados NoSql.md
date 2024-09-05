@@ -1,0 +1,1 @@
+São bancos de dados que não seguem o modelo relacional tradicional. Eles são projetados para lidar com tipos de dados não estruturados, sem esquema fixo, e são altamente escaláveis. 

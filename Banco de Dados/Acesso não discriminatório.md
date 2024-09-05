@@ -1,0 +1,1 @@
+Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro. 

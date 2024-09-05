@@ -1,0 +1,1 @@
+Não seguem um formato pre-definido [[Banco de Dados dimensionais]]

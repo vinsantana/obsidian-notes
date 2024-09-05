@@ -1,0 +1,1 @@
+Baixo nível, não podendo ser compartilhado. Mas caso vazem não terá grande impacto.

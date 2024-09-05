@@ -1,0 +1,1 @@
+São utilizados principalmente em data warehouses e são otimizados para consultas analíticas em grandes conjuntos de dados. Eles organizam os dados em cubos dimensionais, facilitando análises complexas. 

@@ -1,0 +1,1 @@
+Dados que se vazarem podem comprometer a instituição.

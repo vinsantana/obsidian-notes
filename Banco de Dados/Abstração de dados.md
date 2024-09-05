@@ -1,0 +1,1 @@
+Os bancos de dados são completamente independentes dos programas de aplicação (SGBD, que iremos ver ao longo da aula) que os manuseiam – como vimos, os bancos de dados são as coleções de dados em si, o que independe do programa que o opera. Isso permite que diferentes aplicações de usuário possam acessar esses dados de forma consistente. 

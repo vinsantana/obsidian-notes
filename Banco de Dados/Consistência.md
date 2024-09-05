@@ -1,0 +1,1 @@
+Uma transação deve levar o banco de dados de um estado válido para outro estado válido. Isso significa que as regras e restrições de integridade do banco de dados devem ser mantidas antes e depois da transação. Isso leva à conclusão de que devemos respeitar as regras intrínsecas (regras estruturais) e implícitas (regras de negócio) do banco de dados. 

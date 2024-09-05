@@ -1,0 +1,1 @@
+Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo

@@ -1,0 +1,1 @@
+Os dados são apresentados tais como os coletados na fonte, com o maior nível possível de [[granularidade]]e sem [[agregação]] ou [[Informação]]. 

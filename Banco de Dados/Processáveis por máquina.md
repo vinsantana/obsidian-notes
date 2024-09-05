@@ -1,0 +1,1 @@
+Os dados são razoavelmente estruturados, para possibilitar o seu processamento automatizado. 

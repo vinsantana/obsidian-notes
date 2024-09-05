@@ -1,0 +1,1 @@
+Uma transação é uma operação "tudo ou nada". Isso significa que todas as operações dentro da transação devem ser concluídas com sucesso para que a transação seja considerada válida. Se uma operação qualquer falhar, todas as alterações feitas pela transação devem ser desfeitas, garantindo que o banco de dados volte ao seu estado íntegro original. 

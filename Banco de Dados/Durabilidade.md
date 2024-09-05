@@ -1,0 +1,1 @@
+Uma vez que uma transação tenha sido confirmada, suas alterações devem ser permanentes, mesmo em caso de falha do sistema. Isso é alcançado por meio do armazenamento adequado das alterações em disco ou em outros meios persistentes, garantindo que as modificações não sejam perdidas após uma falha. 

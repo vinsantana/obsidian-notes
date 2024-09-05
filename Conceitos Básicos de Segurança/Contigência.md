@@ -1,0 +1,1 @@
+Evento ou crise que tem baixa chance de ocorrer, mas que o impacto é grande

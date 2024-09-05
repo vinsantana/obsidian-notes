@@ -1,0 +1,3 @@
+1. A typical phishing attack consists of receiving **an e-mail claiming to be from some other company**.
+2. There is a link to a **fake website**. The easiest way to identify it is noticing that the URL is not the right one, it uses different logos, or it is badly translated. 
+3. In the URL you can see that website is not the real one. In addition, most of the commercial web **browser****s warn the user against possible attacks**.

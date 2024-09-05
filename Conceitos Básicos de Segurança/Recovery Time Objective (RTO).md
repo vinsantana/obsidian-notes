@@ -1,0 +1,1 @@
+Recovery Time Objective defines the target recovery time for business activities. In other words, it marks the maximum tolerable time in which a critical business activity must be restored to avoid unacceptable impacts on the organisation associated with the occurrence of a contingency.

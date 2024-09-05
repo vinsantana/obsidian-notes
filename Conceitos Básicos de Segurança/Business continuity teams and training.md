@@ -1,0 +1,1 @@
+There are three business continuity teams. Every person at the executive level will be part of one of these three teams:

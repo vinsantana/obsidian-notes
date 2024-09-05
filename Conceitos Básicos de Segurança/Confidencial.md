@@ -1,0 +1,1 @@
+Só algumas pessoas tem acesso, mas podem ser abertas por razões de negócios.

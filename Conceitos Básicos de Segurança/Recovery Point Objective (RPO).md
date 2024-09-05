@@ -1,0 +1,1 @@
+Recovery Point Objective is the maximum time interval that can elapse during a contingency until the amount of data lost during this period causes unacceptable impacts on the organisation. In other words, it is the maximum amount of data that can be lost without causing major impacts on the organisation.

@@ -1,0 +1,1 @@
+Uma qualidade sem ordenação: vermelho, azul, amarelo.

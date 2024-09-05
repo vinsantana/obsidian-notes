@@ -1,0 +1,1 @@
+Quer dizer que um banco de dados possui a capacidade de se autodescrever – isso é, ele contém suas próprias definições de forma inerente à sua estrutura. Isso é feito através dos [[metadados]], conceito que veremos em seguida. 

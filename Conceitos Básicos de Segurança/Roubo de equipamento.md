@@ -1,0 +1,5 @@
+- Inform your supervisor, in case it is necessary to report it to the client.
+- Report the incident in oneDesk to help us keep a record of these incidents, so it can be remotely blocked and wiped, and to have the device replaced.
+- In case of printed documents, it is still important to report the incident.
+- We all must keep an updated back-up copy of all our work in corporate resources (for example, onedrive).
+- You already have the standard security measures in your corporate PC/laptop and smartphone (encrypted storage, screen lock with password and remote-wipe capability). If you have information in your own personal smartphone or tablet, make sure you also have those security measures enabled. If you are not sure about how to enable them, ask your local IT.

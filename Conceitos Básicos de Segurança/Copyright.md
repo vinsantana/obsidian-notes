@@ -1,0 +1,1 @@
+Direito que a pessoa possui sobre o seu trabalho

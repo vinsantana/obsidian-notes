@@ -1,0 +1,1 @@
+Compreendem tarefas necessárias para preparar o ambiente. Inclui criação de infra.

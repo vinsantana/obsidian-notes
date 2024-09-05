@@ -1,0 +1,1 @@
+Impede a mulher de falar, sendo interrompida 

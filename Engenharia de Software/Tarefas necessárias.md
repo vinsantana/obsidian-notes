@@ -1,0 +1,1 @@
+Elas têm valor para a empresa e para o usuário? São claras e viáveis?

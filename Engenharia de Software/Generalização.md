@@ -1,0 +1,1 @@
+Maneira usada para resolver um problema, de forma genérica, com o intuito de reaproveitar essa solução em outras situações

@@ -1,0 +1,1 @@
+qual é o cronograma para a conclusão do trabalho? As partes interessadas e a equipe estabeleceram uma data de término?

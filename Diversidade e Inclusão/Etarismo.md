@@ -1,0 +1,1 @@
+"O **etarismo** se manifesta de várias formas. Essas atitudes e ações dificultam a aceitação e acentuam a negação da velhice. A discriminação por idade é mais forte em sistemas onde a sociedade aceita a desigualdade social."

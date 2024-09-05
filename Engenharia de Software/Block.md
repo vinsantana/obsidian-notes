@@ -1,0 +1,1 @@
+Representa um impedimento relacionado com qualquer risco ou fato que impeça o desenvolvimebto ou a performace

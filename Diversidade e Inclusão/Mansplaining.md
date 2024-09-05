@@ -1,0 +1,1 @@
+Explicar algo que ela domina. 

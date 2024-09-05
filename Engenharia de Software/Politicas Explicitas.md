@@ -1,0 +1,1 @@
+Regras do time que regen como o processo de desenvolvimebto deve ser executado.

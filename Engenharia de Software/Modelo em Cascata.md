@@ -1,0 +1,1 @@
+Uma fase só é iniciada após o termino de outra.

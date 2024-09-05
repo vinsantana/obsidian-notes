@@ -1,0 +1,1 @@
+Diz respeito ao gênero que a pessoas se sente atraída. 

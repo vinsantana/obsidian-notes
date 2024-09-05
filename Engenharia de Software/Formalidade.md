@@ -1,0 +1,1 @@
+O software deve ser desenvolvido de acordo com passos definidos com precisão e seguidos de maneira efetiva;

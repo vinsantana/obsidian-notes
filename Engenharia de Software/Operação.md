@@ -1,0 +1,1 @@
+Nesta fase, o software é utilizado pelos usuários no ambiente de produção, isto é, no ambiente real de uso do usuário. 

@@ -1,0 +1,1 @@
+ Processo de software pode ser visto como o conjunto de atividades, [[métodos]], [[práticas]] e [[transformações]] que guiam pessoas na produção de software

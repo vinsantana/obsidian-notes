@@ -1,0 +1,1 @@
+Represebtam exploração e o experimento com novas funcionalidades.

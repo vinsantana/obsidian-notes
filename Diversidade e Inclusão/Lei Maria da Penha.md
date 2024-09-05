@@ -1,0 +1,1 @@
+Transexuais femininos e travestis possuem direito

@@ -1,0 +1,1 @@
+como é a conclusão ou DoD? Quais [métricas do Scrum](https://www.atlassian.com/br/agile/scrum/scrum-metrics) você planeja usar para avaliar o sucesso?

@@ -1,0 +1,1 @@
+Defende que as mulheres devem ter o mesmo direito que os homens

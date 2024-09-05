@@ -1,0 +1,1 @@
+Se divide o problema em partes, de maneira que cada uma possa ser resolvida de uma forma mais específica

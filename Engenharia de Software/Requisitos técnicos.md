@@ -1,0 +1,1 @@
+A equipe tem os recursos necessários? Todos entendem a solução ou abordagem técnica? É possível testar?

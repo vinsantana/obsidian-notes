@@ -1,0 +1,1 @@
+Pequenas sutis atitudes que já foram naturalizadas na socidade

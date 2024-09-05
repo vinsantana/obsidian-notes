@@ -1,0 +1,1 @@
+Existe uma preocupação com a identificação de um determinado fenômeno da realidade, sem se preocupar com detalhes, considerando apenas os aspectos mais relevantes. 

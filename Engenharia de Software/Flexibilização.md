@@ -1,0 +1,1 @@
+É o processo que permite que o software possa ser alterado, sem causar problemas para sua execução

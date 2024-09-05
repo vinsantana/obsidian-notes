@@ -1,0 +1,1 @@
+São tarefas que envolvem a otimização do código sen alterar a funcionalidade.

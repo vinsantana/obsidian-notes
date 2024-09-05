@@ -1,0 +1,1 @@
+Interpretação do usuário daquilo que ele teve contato com o sistema computacional, permitindo avaliações e conclusões das respostas.

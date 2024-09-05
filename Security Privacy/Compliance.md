@@ -1,0 +1,1 @@
+Ação de cumprir a regra

@@ -1,0 +1,5 @@
+[[Principal]]
+[[Credentials]]
+[[authentication]]
+[[Authorization]]
+[[Secured item]]

@@ -1,0 +1,1 @@
+Significa o sistema ou pessoa que pode performar uma ação dentro do sistema

@@ -1,0 +1,1 @@
+Desperdiçam tempo e devem ser removidas da sua vida

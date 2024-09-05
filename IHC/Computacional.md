@@ -1,0 +1,1 @@
+Busca entregar maior fluidez através de uma interface rápida e amigável

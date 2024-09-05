@@ -1,0 +1,1 @@
+Ajustes sociais, econômicos que devem ser feitos devido as mudanças climáticas. Dentre os planos de adaptação, pode-se citar o [[NAP - National Application Plan]].

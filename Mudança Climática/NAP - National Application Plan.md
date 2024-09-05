@@ -1,0 +1,1 @@
+Criado para paises desenvolvidos e em desenvolvimento criem planos de adaptação de médio e longo prazos. [[estabelecer bases e resolver lacunas]], [[elementos preparatórios]], [[implementar estratégias]], [[reportar e monitorar]].

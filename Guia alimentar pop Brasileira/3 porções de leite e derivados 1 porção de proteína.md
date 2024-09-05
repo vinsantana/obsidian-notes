@@ -1,0 +1,1 @@
+Retirar a gordura torna esses alimentos antes da preparação torna esses alimentod mais saudáveis

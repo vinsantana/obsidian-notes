@@ -1,0 +1,1 @@
+Chaves de identificação que o principal usa para confirmar sua identidade

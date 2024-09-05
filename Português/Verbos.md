@@ -1,0 +1,1 @@
+Indica ação, estado, fenômeno.

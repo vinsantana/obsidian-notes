@@ -1,0 +1,1 @@
+A mudança climática está ocorrendo, o delta asiático é uma das regiões mais afetadas. As ações necessárias são [[migração]] ou [[adaptação]].

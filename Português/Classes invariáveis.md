@@ -1,0 +1,3 @@
+[[Adverbio]]
+[[Conjunção]]
+[[Preposição]]

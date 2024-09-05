@@ -1,0 +1,1 @@
+Termo usado para descrever qualquer recurso que está sendo protegido

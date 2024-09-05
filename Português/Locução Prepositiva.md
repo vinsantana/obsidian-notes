@@ -1,0 +1,1 @@
+Termina com preposição

@@ -1,0 +1,1 @@
+Pronunciados com autonomia sem precisar se apoiar em outras palavras.

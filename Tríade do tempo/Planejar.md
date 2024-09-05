@@ -1,0 +1,1 @@
+Faça-as o quanto antes para tirá-las do caminho

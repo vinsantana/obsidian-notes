@@ -1,0 +1,1 @@
+Se apoiam em outras palavras

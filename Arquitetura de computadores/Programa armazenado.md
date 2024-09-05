@@ -1,0 +1,1 @@
+Dados e instruções no mesmo lugar [[Memória Principal]]. 

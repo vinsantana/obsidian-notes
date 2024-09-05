@@ -1,0 +1,1 @@
+Uma versão do desktop windows rodando na nuvem.

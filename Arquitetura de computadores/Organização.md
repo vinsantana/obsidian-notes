@@ -1,0 +1,1 @@
+Relacionado a parte fisica como sinais de controle

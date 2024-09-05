@@ -1,0 +1,1 @@
+Azure availability zones are **physically and logically separated [[datacenters]] with their own independent power source, network, and cooling**. Connected with an extremely low-latency network, they become a building block to delivering high availability applications.

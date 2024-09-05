@@ -1,0 +1,1 @@
+São serviços computacionais oferecidos por provedores através da internet a qualquer pessoa que pague por isso.

@@ -1,0 +1,1 @@
+Se x e y são diferentes e pertencem a A, então f(x) ≠ f(y)

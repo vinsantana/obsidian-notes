@@ -1,0 +1,8 @@
+[[High Availability]]
+[[Scalability]]
+[[Elasticity]]
+[[Reliability (confiabilidade)]] 
+[[Predictability]]
+[[Security]]
+[[Governance]] 
+[[Manageability]] 

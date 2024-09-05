@@ -1,0 +1,1 @@
+Se a função é ao mesmo tempo [[Função Injetiva]] e [[Função sobrejetiva]].

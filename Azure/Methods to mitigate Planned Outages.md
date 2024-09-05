@@ -1,0 +1,5 @@
+[[Gradual deployment strategy]]
+[[Testing and Monitoring of deployment]]
+[[Easy rollback plan]] 
+[[Small deployments]]
+[[Automations]] 

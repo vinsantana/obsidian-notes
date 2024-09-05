@@ -1,0 +1,3 @@
+- [[Proibição ou eliminação do uso de dados]]
+- [[Obrigação de avisar toda sociedade]]
+- [[Multa diária]] 

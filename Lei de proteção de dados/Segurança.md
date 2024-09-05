@@ -1,0 +1,1 @@
+Proibir uso dos dados

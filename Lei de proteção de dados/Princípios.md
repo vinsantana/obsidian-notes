@@ -1,0 +1,8 @@
+[[Finalidade]]
+[[Transparência]]
+[[Adequação]]
+[[Necessidade]]
+[[Livre acesso]]
+[[Qualidade dos Dados]]
+[[Segurança e Prevenção]]
+[[Não discriminação e responsabilização]] 

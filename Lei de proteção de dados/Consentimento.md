@@ -1,0 +1,1 @@
+[[Titular de Dados]] precisam dar o consentimento. Devem ser [[informados]]. 

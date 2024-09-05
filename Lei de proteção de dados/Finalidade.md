@@ -1,0 +1,1 @@
+[[Tratamento de dados]] para propósitos legítimos e específicos, sem reaproveitamento para outros fins. 

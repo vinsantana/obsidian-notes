@@ -1,0 +1,1 @@
+Pode afetar a imagem da NTT

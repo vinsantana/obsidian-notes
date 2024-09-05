@@ -1,0 +1,1 @@
+[[Titular de Dados]] deve ter direito a consulta [[Gratuito]], [[Sem justificativa]] e [[Facilitada]].

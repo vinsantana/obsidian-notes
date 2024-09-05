@@ -1,0 +1,1 @@
+O [[Tratamento de dados]] deve ser avaliado quanto aos [[riscos]] que podem trazer. É uma forma de se preparar para incidentes e se adequar às leis.

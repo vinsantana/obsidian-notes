@@ -1,0 +1,1 @@
+Informação clara e acessível sobre o [[Tratamento de dados]]. 

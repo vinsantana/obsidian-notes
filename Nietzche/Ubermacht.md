@@ -1,0 +1,1 @@
+Relacionado ao processo de expansão do universo que também existe internamente no ser humano. Onde essa expansão é feita através da superação de fraquezas pela abstração. Exemplo: voar de avião. 

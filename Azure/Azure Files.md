@@ -1,0 +1,1 @@
+Azure Files offers fully managed file shares in the cloud that can be accessed via the SMB or NFS protocols. It is designed to provide a simple way to create file shares in Azure that can be used to replace or supplement traditional on-premises file servers or NAS devices, making it the correct choice for this scenario.

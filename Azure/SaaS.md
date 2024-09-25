@@ -1,1 +1,1 @@
-App ready to be used
+Configuring the SaaS solution is the correct responsibility of the consumer when implementing a Software as a Service (SaaS) solution. This includes setting up redundancy, failover mechanisms, and load balancing to achieve high availability.

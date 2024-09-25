@@ -1,0 +1,1 @@
+ Private is a phase when Azure invites a few customers to take part in early access to new concepts and features. **This phase does not include formal support.**  It is not available to the general public as well.

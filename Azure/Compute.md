@@ -1,0 +1,2 @@
+- Secure access to virtual machines.
+- Implement endpoint protection and keep systems patched and current.

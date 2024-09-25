@@ -1,0 +1,1 @@
+**Websites Shared (Preview)**: The price for the Shared tier during preview is **$0.013** per hour per website instance (~$10/month). This price reflects a 33% preview discount.

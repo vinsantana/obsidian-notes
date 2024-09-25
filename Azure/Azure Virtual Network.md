@@ -1,0 +1,5 @@
+**Azure Virtual Network (VNet)** is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks. VNet is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, availability, and isolation.
+
+  
+
+All resources in a VNet can communicate outbound to the internet, by default. You can communicate inbound to a resource by assigning a public IP address or a public Load Balancer. You can also use public IP or public Load Balancer to manage your outbound connections. To learn more about outbound connections in Azure, see [Outbound connections](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections), [Public IP addresses](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/virtual-network-public-ip-address), and [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview).

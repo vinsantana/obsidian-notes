@@ -1,0 +1,4 @@
+- Stored in a database
+- Stored on disk inside virtual machines
+- Stored on a SaaS application such as Office 365
+- Stored in cloud storage

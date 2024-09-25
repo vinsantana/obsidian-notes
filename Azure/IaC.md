@@ -1,0 +1,1 @@
+Azure provides native support for IaC via the **[[Azure Resource Manager]]**. Teams can define declarative templates that specify the infrastructure required to deploy their solutions

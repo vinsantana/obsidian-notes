@@ -1,0 +1,1 @@
+ **Azure Storage Account** is the correct answer as it provides Azure Files, which can be used to create a file share accessible from multiple virtual machines. Remember, we always need to choose the BEST option from the ones provided. Even though Azure Files would've been the ideal option, but since its not one of the options we need to go with the best option possible.

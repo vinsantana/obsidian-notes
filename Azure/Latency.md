@@ -1,0 +1,1 @@
+_Network latency is the amount of time it takes for a data packet to go from one place to another_

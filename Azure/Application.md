@@ -1,0 +1,3 @@
+- Ensure applications are secure and free of vulnerabilities.
+- Store sensitive application secrets in a secure storage medium.
+- Make security a design requirement for all application development.

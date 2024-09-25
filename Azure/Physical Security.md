@@ -1,0 +1,1 @@
+- Physical building security and controlling access to computing hardware within the data center is the first line of defense.

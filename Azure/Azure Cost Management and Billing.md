@@ -1,0 +1,1 @@
+**Azure Cost Management and Billing** is the correct answer & provides recommendations to optimize your cloud spending based on your usage patterns. The service provides insights and cost management tools to help you monitor, allocate, and optimize your cloud costs.

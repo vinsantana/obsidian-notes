@@ -1,0 +1,1 @@
+Azure Active Directory (Azure AD) **External Identities** is a set of capabilities that enables organizations to secure and manage any external user, including customers and partners.

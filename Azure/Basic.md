@@ -1,0 +1,1 @@
+- **Websites Basic and Standard**: The Basic and Standard tiers offer multiple instance sizes as well as scaling to meet changing capacity needs starting from $56 for a Basic (Single Small instance) and $75 for a Standard ( Single small instance)

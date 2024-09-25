@@ -1,0 +1,1 @@
+Microsoft Entra ID allows organizations to synchronize on-premises directories to enable a consistent identity experience between cloud and on-premises.

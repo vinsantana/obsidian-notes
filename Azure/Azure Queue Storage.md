@@ -1,0 +1,3 @@
+You can use **Azure Queue Storage** to build flexible applications and separate functions for better durability across large workloads. When you design applications for scale, application components can be decoupled, so that they can scale independently. Queue storage gives you asynchronous message queueing for communication between application components, whether they are running in the cloud, on the desktop, on-premises, or on mobile devices.
+
+A single queue message can be up to **64 KB** in size, and a queue can contain **millions** of messages, up to the total capacity limit of a storage account. Queue storage is often used to create a backlog of work to process asynchronously.

@@ -1,0 +1,1 @@
+**Microsoft Purview** is designed to help organizations manage, discover, classify, and govern **data** across a variety of sources, including on-premises, multi-cloud, and software-as-a-service (SaaS) environments. It provides a unified data governance solution to ensure data security, compliance, and data-driven insights.

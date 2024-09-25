@@ -1,0 +1,1 @@
+Vertical scaling adjusts the number of resources, while horizontal scaling adjusts capabilities.

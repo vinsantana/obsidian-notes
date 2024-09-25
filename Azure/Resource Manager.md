@@ -1,0 +1,3 @@
+Azure provides native support for IaC via the [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview) model. Teams can define declarative [ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) that specify the infrastructure required to deploy solutions.
+
+Third-party platforms like [Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/overview), [Ansible](https://learn.microsoft.com/en-us/azure/developer/ansible/overview), [Chef](https://learn.microsoft.com/en-us/azure/developer/chef/overview), and [Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi) also support IaC to manage automated infrastructure.

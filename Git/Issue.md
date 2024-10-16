@@ -1,0 +1,1 @@
+use the "Create a branch" option on the issue page to quickly create a branch associated with the issue

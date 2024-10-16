@@ -1,0 +1,3 @@
+The only users who can use the Insights feature for Projects are those with write or admin access to the specific project.
+
+GitHub repository insights includes a Traffic tab that provides information about the repository's traffic, such as number of visitors and clones. Repository insights also provides an overview of a repository's activity including list of open and merged pull requests, open and closed issues, and a graph showing the commit activity for the top 15 users who committed to the default branch of the project in the selected time period.

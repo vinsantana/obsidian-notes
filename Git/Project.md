@@ -1,0 +1,1 @@
+A GitHub project’s primary purpose is to be an adaptable spreadsheet, task board, and road map to integrate your issues and pull requests on Github. This allows groups of people to plan and track their work effectively.

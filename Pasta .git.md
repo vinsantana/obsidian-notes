@@ -1,0 +1,1 @@
+Essa é uma pasta especial onde todas as coisas do Git estão. Vamos explorar o diretório.

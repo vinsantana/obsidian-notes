@@ -1,0 +1,1 @@
+Within GitHub Enterprise you can restrict who has access to a repository by choosing a repository's visibility: **public**, **internal**, or **private**.

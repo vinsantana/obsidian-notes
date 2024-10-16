@@ -1,0 +1,1 @@
+Só funciona comandos de Windows

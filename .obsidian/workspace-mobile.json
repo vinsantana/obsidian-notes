@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Programação Reativa.md",
+                "file": "Git/Insight features.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spring Boot/Programação Reativa.md",
+            "file": "Git/Insight features.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spring Boot/Programação Reativa.md",
+            "file": "Git/Insight features.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spring Boot/Programação Reativa.md"
+            "file": "Git/Insight features.md"
           }
         }
       }
@@ -133,7 +134,35 @@
   },
   "active": "272c5317a8695dc2",
   "lastOpenFiles": [
-    "Spring Boot/Programação Reativa.md",
-    "Untitled"
+    "Git/Untitled.md",
+    "Git/Milestone (Marco).md",
+    "Git/InnerSource.md",
+    "Git/Github codespaces.md",
+    "Git/Github.dev.md",
+    "Git/SECURITY.MD.md",
+    "Git/Github Advanced Security.md",
+    "Git/Github feature preview.md",
+    "Git/Issue.md",
+    "Git/Github Copilot.md",
+    "Git/Codeownerfiles.md",
+    "Git/Github codespace.md",
+    "Git/Github Marketplace.md",
+    "Git/Visibility.md",
+    "Git/Insight features.md",
+    "Git/Pull request.md",
+    "Git/Metadata.md",
+    "Git/Project.md",
+    "Repositório.md",
+    "Git/Roles.md",
+    "Git/Repository template.md",
+    "Git/Gist git.md",
+    "Git bash.md",
+    "Git/Github Actions.md",
+    "CI/CD.md",
+    "CI",
+    "Integra.md",
+    "Logstash",
+    "Git",
+    "Comunicação"
   ]
 }

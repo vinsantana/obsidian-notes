@@ -1,0 +1,1 @@
+É possível transformar um repositório existente em um modelo, de modo que você e outras pessoas podem gerar novos repositórios com os mesmos arquivos, branches e estrutura de diretório.

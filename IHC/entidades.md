@@ -1,3 +1,0 @@
-[[Humano]]
-[[Computacional]]
-[[Interação]]

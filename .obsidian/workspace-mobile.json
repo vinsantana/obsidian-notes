@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4569cf4308bf25fa",
+        "id": "d75e2be03fec4fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "272c5317a8695dc2",
+            "id": "e1a761d070b665ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Insight features.md",
+                "file": "Geral/Inteligência emocional/Autoestima.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Autoestima"
             }
           }
         ]
@@ -36,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -51,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -62,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -70,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -86,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Git/Insight features.md",
+            "file": "Geral/Comunicação/Empatia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -103,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Git/Insight features.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -115,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Git/Insight features.md"
-          }
+            "file": "Untitled.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -132,35 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "272c5317a8695dc2",
+  "active": "e1a761d070b665ba",
   "lastOpenFiles": [
-    "Git/Untitled.md",
-    "Git/Milestone (Marco).md",
-    "Git/InnerSource.md",
-    "Git/Github codespaces.md",
-    "Git/Github.dev.md",
-    "Git/SECURITY.MD.md",
-    "Git/Github Advanced Security.md",
-    "Git/Github feature preview.md",
+    "Geral/Inteligência emocional/Inteligência emocional.md",
+    "Geral/Inteligência emocional/Autoestima.md",
+    "Geral/Inteligência emocional/Forças interiores.md",
+    "Geral/Inteligência emocional/Independência emocional.md",
+    "Geral/Inteligência emocional/Propósito.md",
+    "Geral/Inteligência emocional/Conciencia emocional.md",
+    "Geral/Inteligência emocional/Relacionamentos.md",
+    "Geral/Inteligência emocional/Lidar com o exterior.md",
+    "Geral/Inteligência emocional/VUCA.md",
+    "Geral/Inteligência emocional/Amigdala.md",
+    "Geral/Comunicação/Empatia.md",
+    "Geral/Inteligência emocional/Sensação.md",
+    "Geral/Inteligência emocional",
+    "Geral/Comunicação/Escuta ativa.md",
+    "Geral/Comunicação/Comunicação assertiva.md",
+    "Ntt Data/DevOps/Groovy.md",
+    "Ntt Data/DevOps/Jenkins.md",
+    "Ntt Data/DevOps/Continous integration.md",
+    "Ntt Data/DevOps/Continuous Integration.md",
+    "Ntt Data/DevOps/Continous Deploynent.md",
+    "Ntt Data/DevOps/Continous Delivery.md",
+    "Ntt Data/DevOps/Application Lifecycle Management.md",
+    "Ntt Data/DevOps",
+    "Untitled.md",
     "Git/Issue.md",
-    "Git/Github Copilot.md",
-    "Git/Codeownerfiles.md",
-    "Git/Github codespace.md",
-    "Git/Github Marketplace.md",
-    "Git/Visibility.md",
-    "Git/Insight features.md",
-    "Git/Pull request.md",
-    "Git/Metadata.md",
-    "Git/Project.md",
-    "Repositório.md",
-    "Git/Roles.md",
-    "Git/Repository template.md",
-    "Git/Gist git.md",
-    "Git bash.md",
-    "Git/Github Actions.md",
-    "CI/CD.md",
+    "Git/Event.md",
+    "Git/Authentication.md",
+    "Git/draft pull requests.md",
     "CI",
-    "Integra.md",
     "Logstash",
     "Git",
     "Comunicação"

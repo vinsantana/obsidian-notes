@@ -1,0 +1,3 @@
+- Providing a **comprehensive view** of the DevOps landscape.
+- Providing a **practical guide** for organisations of all sizes and in all industries to improve software delivery performance.
+- Google acquired **DORA** in December 2018, and it is now **part of the Google Cloud** group.

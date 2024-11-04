@@ -1,0 +1,1 @@
+**SAFe** is a framework used on a large enterprise scale to apply agile principles such as incremental iterative development, and lean practices such as streamlining and optimising processes.

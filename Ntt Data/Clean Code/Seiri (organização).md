@@ -1,0 +1,1 @@
+Saber onde as coisas estão mediante ao uso de nomes corretos - Nomear

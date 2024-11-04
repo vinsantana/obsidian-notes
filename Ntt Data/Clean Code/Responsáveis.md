@@ -1,0 +1,1 @@
+Seguramente crees que si no haces lo que tu jefe te dice, te despedirán. Es improbable. Muchos jefes solo quieren la verdad, aunque lo disimulen. Muchos quieren **código correcto**, aunque estén obsesionados con los objetivos. Pueden defender apasionadamente los objetivos y los requisitos, pero es su trabajo. El nuestro es defender el código con la misma intensidad.

@@ -1,0 +1,3 @@
+**Chatbots** are Artificial Intelligence capabilities that allow holding a conversation via text or audio. If we put together client chats + chatbots, we will have chats related to **development**, **delivery** and **support**. 
+
+**ChatOps** allow the collaboration tools we use in our day-to-day work to be complemented by tools we use for DevOps, so we can execute tasks like creating containers or running pipelines with just a click of a button.

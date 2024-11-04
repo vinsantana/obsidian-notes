@@ -1,0 +1,1 @@
+Cooperation, communication and continuous improvement between development, operations and business leads to full economic benefits and effectiveness.

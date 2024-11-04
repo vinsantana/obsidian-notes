@@ -1,0 +1,1 @@
+Ser disciplinado na aplicação das práticas - Refletir e aceitar as mudanças

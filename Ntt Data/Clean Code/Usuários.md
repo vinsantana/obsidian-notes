@@ -1,0 +1,1 @@
+Acuden a nosotros para validar la manera de encajar los requisitos en el sistema. Los administradores de proyectos acuden a nosotros para determinar los objetivos. Somos cómplices en la programación del proyecto y compartimos gran parte de la responsabilidad de los fallos, en especial si tienen que ver con código incorrecto.

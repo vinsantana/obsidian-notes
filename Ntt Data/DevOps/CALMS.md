@@ -1,0 +1,1 @@
+**CALMS** is a _framework_ that assesses a company's ability to adopt **DevOps** processes, as well as a way to measure success during a **DevOps** transformation. The acronym was coined by Jez Humble, co-author of "_The DevOps Handbook_", and stands for: **_Culture_**, **_Automation_**, **_Lean_**, **_Measurement_** and **_Sharing_**, representing the DevOps values.

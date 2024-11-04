@@ -1,0 +1,1 @@
+Devemos eliminar tudo o que for desnecessário

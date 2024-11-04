@@ -1,0 +1,1 @@
+Teams are able to meet the needs of their client **much faster**, being able to deliver software products much more often and with a high degree of satisfaction.

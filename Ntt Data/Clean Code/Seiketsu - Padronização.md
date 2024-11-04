@@ -1,0 +1,1 @@
+A equipe junta mantém o local de trabalho limpo

@@ -1,0 +1,1 @@
+Uso de métricas e sinais de dentro do aplicativo, consumo de memória, latência

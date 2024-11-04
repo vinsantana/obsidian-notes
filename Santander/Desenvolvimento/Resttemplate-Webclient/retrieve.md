@@ -1,0 +1,1 @@
+executa diretamente a solicitação HTTP e recupera o corpo da resposta.

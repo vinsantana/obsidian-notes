@@ -1,0 +1,1 @@
+Envolve uma promessa a alguém que usa seu serviço, de que seu [[SLO (Objetivo do nível de serviço)]] de disponibilidade deve atender a um determinado nível ddurenate um determinado período e, se não cumprir, algum topo de penalidade será pago. Tudo firmado em contrato e em consenso entre as partes envolvidas. 

@@ -1,0 +1,1 @@
+Se não isolar, vai cair no buraco do coelho. 

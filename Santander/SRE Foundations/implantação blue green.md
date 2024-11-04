@@ -1,0 +1,2 @@
+modelo de lançamento de aplicação que transfere gradualmente o tráfego de usuário de uma versão anterior da aplicação para uma nova versão praticamente identica, estando ambas em execução em ambiente de produção;
+A versão antiga é chamada de blue, enquanto a nova é a green. 

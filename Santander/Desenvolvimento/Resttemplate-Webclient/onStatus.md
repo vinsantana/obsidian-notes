@@ -1,0 +1,1 @@
+utilizamos direto em nossa chamada, informamos qual vai ser o status code de nossa validação e em seguida declaramos um response function, convertemos o seu payload para String e usamos "map" assim com é no Java Stream para transformar o valor em uma exceção, aqui no caso utilizei o RuntimeException como nossa exceção.

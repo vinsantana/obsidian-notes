@@ -1,0 +1,1 @@
+é a eficiência dos serviços fornecidos, além do produto em si. [[SRE]] busca após a implementação, estabelecer e monitorar métricas de nível de serviço para conseguir aumentar a disponibilidade e a confiabilidade do serviço. Manter a confiabilidade em um nível aceitável é que permite á organização investir em inovações e, ao mesmo tempo, mitigar impactos negativos ao consumidor.

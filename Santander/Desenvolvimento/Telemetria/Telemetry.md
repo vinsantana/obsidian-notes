@@ -1,0 +1,1 @@
+We can define a telemetry as an ability to measure something. And measuring something on distributed systems is more difficult than on monolithic systems.

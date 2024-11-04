@@ -1,0 +1,1 @@
+sinal é um comportamento visível externamente como o tempo de carregamento da página.

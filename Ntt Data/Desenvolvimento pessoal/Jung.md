@@ -1,0 +1,1 @@
+Quem olha pra fora sonha, quem olha pra dentro desperta.

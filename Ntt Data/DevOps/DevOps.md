@@ -3,3 +3,5 @@ The key to this success, among others, that we will see throughout this course, 
 [[Agility]]
 [[Cloud]]
 [[Trend]]
+
+![[Pasted image 20241105142355.png]]![[Pasted image 20241105151344.png]]

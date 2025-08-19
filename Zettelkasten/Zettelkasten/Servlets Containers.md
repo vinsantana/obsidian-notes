@@ -1,0 +1,2 @@
+#spring
+Responsáveis por converter uma requisição http ou https em um objeto java. O mais famoso é o [[Tomcat]]. Quando o http chega é convertido para ResquestServlet. Antes de reponder ao client, é feita a conversão para ResponseServlet

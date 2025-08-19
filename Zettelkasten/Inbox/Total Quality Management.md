@@ -1,0 +1,1 @@
+Gestão para redução de desperdícios.

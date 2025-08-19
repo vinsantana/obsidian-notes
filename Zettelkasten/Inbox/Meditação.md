@@ -1,0 +1,1 @@
+Ajuda a focar a atenção em uma unica atividade.

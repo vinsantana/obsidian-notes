@@ -1,0 +1,1 @@
+Crença desenvolvida, mas não consolidada.

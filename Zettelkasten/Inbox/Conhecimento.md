@@ -1,0 +1,1 @@
+Buscar padrões e generalizar informações.

@@ -1,0 +1,2 @@
+#Gestão 
+Essa etapa é usada para criar ações executáveis das tarefas criadas no primeiro passo. Isso é feito dividindo a tarefa em ações menores. O objetivo é criar uma imagem clara dessa tarefa, isso ajuda a perceber se essa tarefa é possível de ser executada.

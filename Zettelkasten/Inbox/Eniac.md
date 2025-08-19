@@ -1,0 +1,1 @@
+Computador criado para auxiliar em calculos balísticos

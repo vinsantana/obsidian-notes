@@ -1,0 +1,5 @@
+Precisão
+Atualização
+Completeza
+Confiabilidade
+Eficiência

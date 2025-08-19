@@ -1,0 +1,1 @@
+O que não é decodificado facilmente.

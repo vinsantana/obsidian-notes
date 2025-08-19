@@ -1,0 +1,1 @@
+Otimização da qualidade para a redução de custos. Prevenção de erros e adaptar a qualidade aos requisitos do cliente.

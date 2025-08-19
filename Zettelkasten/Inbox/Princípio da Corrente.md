@@ -1,0 +1,1 @@
+Agregar valor no elo mais fraco.

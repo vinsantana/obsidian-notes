@@ -1,0 +1,1 @@
+Opniões valem menos do que fatos.

@@ -1,0 +1,1 @@
+Ponto em que a tecnologia nao para mais de evoluir

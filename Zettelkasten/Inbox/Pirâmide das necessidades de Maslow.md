@@ -1,0 +1,1 @@
+Muito usada pela publicidade.

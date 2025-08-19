@@ -1,0 +1,1 @@
+Utilizadas para a parte prática da vida

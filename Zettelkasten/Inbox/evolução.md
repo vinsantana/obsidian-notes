@@ -1,0 +1,1 @@
+Sempre tentandk compreender. O incomodo que leva a investigação. Ao encerrar dúvida, gera-se as [[Crenças]].

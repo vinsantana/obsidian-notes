@@ -1,0 +1,1 @@
+Tem a funcionalidade de processar dados e informações, interagindo com o ambiente externo através de interfaces de troca de dados.

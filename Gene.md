@@ -1,0 +1,1 @@
+É um seguimento do cromossomo que tem um código distinto para produzir uma determinada proteína ou controlar características (fenótipo)

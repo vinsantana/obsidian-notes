@@ -1,0 +1,1 @@
+Total de objetivos atingidos. Vê como o sistema interage com o ambiente externo

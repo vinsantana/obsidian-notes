@@ -1,0 +1,1 @@
+sequências móveis de DNA sem uma função específica na biologia de seus hospedeiros, existindo apenas para se manterem

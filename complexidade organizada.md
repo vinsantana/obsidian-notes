@@ -1,0 +1,1 @@
+Não são aleatorias mas correlacionadas. Redes sociais e comeia

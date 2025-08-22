@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dimensões do ser humano"
             }
+          },
+          {
+            "id": "1036213ccc720d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolução e conhecimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evolução e conhecimento"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "6a55a478a4f51b60",
@@ -162,21 +178,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "421c6b10c1147916",
+  "active": "1036213ccc720d98",
   "lastOpenFiles": [
-    "Ntt Data/Desenvolvimento pessoal/Ego.md",
-    "Ntt Data/Desenvolvimento pessoal/Dimensões do ser humano.md",
-    "Ntt Data/Desenvolvimento pessoal/Jung.md",
-    "Ntt Data/DevOps/DevOps.md",
+    "UFABC/Introdução ao conhecimento.md",
+    "Entropia.md",
+    "DNA.md",
+    "Evolução e conhecimento.md",
+    "Sistema.md",
+    "Sistemas Complexos.md",
+    "complexidade organizada.md",
+    "Sistema de informação.md",
+    "Eficácia.md",
+    "Eficiência.md",
+    "Pasted image 20250627212900.png",
+    "Funcionalidade.md",
+    "Processamento.md",
+    "Pasted image 20250621234402.png",
+    "Cromossomo.md",
+    "Gene.md",
+    "Telômero.md",
+    "Replicação.md",
+    "Transcrição.md",
+    "Pasted image 20250621220339.png",
+    "Memória Genética.md",
+    "auto-replicação.md",
+    "Vida.md",
+    "RNA.md",
+    "Selfish.md",
+    "DNA e Informação.md",
+    "Dado.md",
+    "Concursos/Banco de Dados/Dados.md",
+    "Concursos/Banco de Dados/Informação.md",
+    "Pasted image 20250614182616.png",
+    "Untitled/desktop.ini",
+    "UFABC",
+    "Ntt Data/DevOps/Pasted image 20241105142355.png",
+    "Ntt Data/Desenvolvimento pessoal/Planejamento",
+    "Ntt Data/DevOps/Pasted image 20241129094020.png",
+    "Ntt Data/lean",
     "Ntt Data/Desenvolvimento pessoal",
-    "Pasted image 20241105151344.png",
-    "Ntt Data/DevOps/ChatOps.md",
-    "Ntt Data/DevOps/Chaos engineering.md",
-    "Ntt Data/DevOps/Code Review.md",
-    "Pasted image 20241105142843.png",
-    "Pasted image 20241105142355.png",
-    "Ntt Data/Desenvolvimento pessoal/Valores.md",
-    "Ntt Data/DevOps/Cloud.md",
-    "Ntt Data/DevOps/Collaboration.md"
+    "Ntt Data/DevOps/Pasted image 20241105151344.png",
+    "Ntt Data/DevOps/Pasted image 20241105142843.png"
   ]
 }

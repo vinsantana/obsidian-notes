@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é Samsara.md",
+                "file": "Nirvana e Libertação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é Samsara"
+              "title": "Nirvana e Libertação"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sofrimento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Samsara.md",
+                "file": "Nirvana e Libertação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O que é Samsara"
+              "title": "Backlinks for Nirvana e Libertação"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Samsara.md",
+                "file": "Nirvana e Libertação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O que é Samsara"
+              "title": "Outgoing links from Nirvana e Libertação"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Samsara.md",
+                "file": "Nirvana e Libertação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O que é Samsara"
+              "title": "Outline of Nirvana e Libertação"
             }
           }
         ]
@@ -170,6 +171,8 @@
   },
   "active": "e7d5c26fa635707d",
   "lastOpenFiles": [
+    "Desidentificação do corpo e mente.md",
+    "Nirvana e Libertação.md",
     "Zettelkasten/Journal/2025-08-22.md",
     "O que é Samsara.md",
     "Ego e mente.md",
